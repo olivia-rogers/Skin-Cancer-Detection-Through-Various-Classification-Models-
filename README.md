@@ -1,8 +1,7 @@
 # Skin-Cancer-Detection-Through-Various-Classification-Models-
 
 Paper Link :
--  https://docs.google.com/document/d/1vzLsxIvgMJgwji2GGPEmN5zgFY2Cf10xO2kYl8YOvJo/edit?usp=sharing
-
+- https://drive.google.com/file/d/1oLYXT3K-LNt3hMGkkHA94-HAzQJDcpnP/view?usp=sharing
 Overview:
 
 This repository contains all models, experiments, and results from the paper _Skin Cancer Detection Through Various Classification Models_. All models and experiments are implemented using Keras and Tensorflow. Below is the organization structure:
